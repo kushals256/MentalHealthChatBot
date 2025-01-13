@@ -26,15 +26,19 @@ This project is a simple and interactive chatbot designed to provide empathetic,
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kushals256/mental-health-chatbot.git
+   git clone https://github.com/kushals256/MentalHealthChatBot.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd mental-health-chatbot
+   cd MentalHealthChatBot
    ```
 
-3. Open the `index.html` file in your browser to launch the chatbot.
+3. Add your Google Generative Language API key:
+   - Open the `script.js` file.
+   - Locate the placeholder for the API key and replace it with your own key from Google Gemini.
+
+4. Open the `index.html` file in your browser to launch the chatbot.
 
 ---
 
@@ -100,6 +104,7 @@ Contributions are welcome! Follow these steps to contribute:
 5. Open a pull request on GitHub.
 
 ---
+
 
 ## Acknowledgements
 
