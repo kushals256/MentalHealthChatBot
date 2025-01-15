@@ -110,3 +110,16 @@ Contributions are welcome! Follow these steps to contribute:
 
 - [Google Generative Language API](https://cloud.google.com/generative-language/) for backend AI responses.
 
+
+---
+
+## License
+
+- This project is licensed under the MIT License.
+
+
+
+
+
+
+
